@@ -1,3 +1,3 @@
 # Red-Group-Repo
 
-Javascript is annoying.
+These are changes that I made locally through Pete's branch
